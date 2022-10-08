@@ -88,7 +88,7 @@ UI: true
 Hub Titles: enabled
 Avatars: enabled
 Costumes: enabled
-All: false
+All: true
 #all are automatically unlocked
 Staff and YT all: true
 #staff and YouTube Rank get all unlocked
@@ -155,7 +155,7 @@ Hub Title Particles: rainbow.swirls
 
 Force-MOTD: true
 Auto: false
-MOTD: "§l§eHIVE §5Minigames"
+MOTD: "§l§ePLAy§5Minigames"
 
 #npcs
 npc: true
