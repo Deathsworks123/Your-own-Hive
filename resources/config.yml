@@ -93,14 +93,14 @@ All: true
 Staff and YT all: true
 #staff and YouTube Rank get all unlocked
 3D Costumes: true
-Minigame Locker button: false
+Minigame Locker button: true
 
 #pets
 
 UI: true
-All: false
+All: true
 Staff and YT all: true
-Free Rename: true
+Free Rename: false
 Unallowed Names:
  - Shit
  - fuck
@@ -123,7 +123,7 @@ Money Commands:
  - takemoney
  - setmoney 
  - seemoney
-Monetary Symbol: €
+Monetary Symbol: KB
 
 #hubtitles
 Hub Titles: true
@@ -197,7 +197,7 @@ Treasure Wars: yellow.sparkles
 TheBridge: aqua.sparkles
 Survival Games: green.sparkles
 Just Build: pink.sparkles
-Hide and seek: lime.sparkles
+Hide and seek: purple.sparkles
 
 #knockback and cooldown
 
@@ -215,13 +215,13 @@ Model: default
 Name: "§l§eQUESTS \n Click Me!"
 
 Minigame Quests: true
-Chatting Quests: false
-Exploration Quests: false
+Chatting Quests: true
+Exploration Quests: true
 
-Max Quest: 10
-Max Quest+: 20
-Max Quest YT: 30
-Max Quest Staff: 50
+Max Quest: 100
+Max Quest+: 200
+Max Quest YT: 300
+Max Quest Staff: 5000
 
 Max Quest Period: 10h
 
@@ -244,6 +244,7 @@ Dragon Colors:
 - Red
 - Green
 - Purple
+- Rainbow
 Pirate Ship: true
 Rock: true
 
@@ -258,9 +259,9 @@ Enabled: true
 Items:
  Locker: true
  Leave: true
- Friends: false
- Party: false
- Global Locker: false
+ Friends: true
+ Party: true
+ Global Locker: true
  Map Vote: true
  
 Countdown: 30s
