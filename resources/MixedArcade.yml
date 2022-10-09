@@ -13,8 +13,8 @@ Ground Wars NPC: "0, 0, 3"
 #set this up in game with /ma monorail ui
 Monorail: true
 Color: blue
-Cars: 10
-Seats Per Car: 4
+Cars: 10000
+Seats Per Car: 1000
 
 #collectibles
 Arcade Tokens: true
@@ -37,7 +37,7 @@ Token 8: "0, 0, 0"
 Enabled: true
 TheBridge: true
   
-Countdown: 30
+Countdown: 15
 UI: true
 
 #levels
