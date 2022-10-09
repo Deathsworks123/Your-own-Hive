@@ -58,8 +58,8 @@ Join Game from list: true
 #texture-pack
 
 Joining HIVE Screen Enabled: true
-Joining Screen Text: HIVE
-Photos: true
+Joining Screen Text: PLAy
+Photos: false
 Force-Join: true
 
 #ui
@@ -88,7 +88,7 @@ UI: true
 Hub Titles: enabled
 Avatars: enabled
 Costumes: enabled
-All: true
+All: false
 #all are automatically unlocked
 Staff and YT all: true
 #staff and YouTube Rank get all unlocked
