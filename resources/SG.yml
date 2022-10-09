@@ -8,12 +8,19 @@ Game Countdown: 15s
 MaxGameTime: 5m
 
 #cows
-Cows: 3
+Cows: 10
 Cow Colors:
 - Blue
 - Red
 - Yellow
 - Green
+- Purple
+- Lime
+- Orange
+- Indigo
+- Aqua
+- Lavender 
+- Hot Pink
 
 #loot
 Tiers: True
@@ -27,7 +34,7 @@ Tier#: 2
 Supply Crates: True
 How Often: 1m
 Effect: "Lightning Bolt"
-Msg: "A supply crate is being delivered..."
+Msg: "A "Receiving supply crate. Enjoy!"
 
 #deathmatch
 Deathmatch: True
